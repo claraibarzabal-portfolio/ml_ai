@@ -13,7 +13,7 @@ A curated overview of my Machine Learning and Artificial Intelligence studies, s
 
 I am open to discussing my work and exploring potential collaborations. If you're interested in learning more about my projects or have inquiries regarding advanced machine learning concepts, feel free to reach out:
 
-- **Email**: [clara.ibarzabal16@gmail.com](mailto:clara.ibarzabal16@gmail.com)
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/clara-ibarz%C3%A1bal-649310164/)
+- **Email**: [claraibarzabalr@gmail.com](mailto:claraibarzabalr@gmail.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/clara-ibarzabal/)
 
 Thank you for visiting my repository!
